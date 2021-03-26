@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertEquals;
 
-public class CashbackHackService {
+public class CashbackHackServiceTest {
 
     @Test
     public void shouldRemain() {
